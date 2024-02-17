@@ -6,7 +6,5 @@ public class Demo {
 	System.out.println("hello java");
 
 	}
-	
-	//
 
 }
